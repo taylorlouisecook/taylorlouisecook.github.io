@@ -1,9 +1,7 @@
 .stripes {
 	background: url("Assets/stripes.png");
 	height: 13px;
-	background-repeat: repeat-x;
 }
-
 
 body {
 	background: url("Assets/background.jpg");
@@ -15,7 +13,6 @@ body {
 	margin: 0;
 	padding: 0;
 }
-
 
 .content{
 	margin-top: 300px;
@@ -40,5 +37,4 @@ h2{
 
 a{
 	padding: 0px;
-
 }
