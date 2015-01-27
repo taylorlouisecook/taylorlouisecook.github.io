@@ -1,7 +1,7 @@
 .stripes {
 	background: url("Assets/stripes.png");
 	height: 13px;
-	margin-top: 0px;
+	background-repeat: repeat-x;
 }
 
 
@@ -12,6 +12,8 @@ body {
 	font-family: helvetica;
 	background-attachment: fixed;
 	background-position: center bottom;	
+	margin: 0;
+	padding: 0;
 }
 
 
