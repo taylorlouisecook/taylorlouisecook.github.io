@@ -1,0 +1,60 @@
+.watermark {
+	width: 300px;
+	margin: 0;
+
+}
+
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Sintony', sans-serif;
+}
+
+header {
+	background-color: #000000;
+	width: 100%;
+	height: 15vh;
+	margin: 0px;
+}
+
+nav {
+	width: 500px;
+	float: right;
+}
+
+ul {
+	list-style: none;
+	padding-top: 30px;
+}
+
+li {
+	color: white;
+	display: inline;
+	padding: 10px;
+}
+
+section {
+	background: url("Assets/cafe.jpeg") no-repeat center center fixed;
+	background-size: cover;
+	margin: 0px;
+	width: 100%;
+	height: 85vh;
+}
+
+h1{
+	margin: 0;
+	text-align: center;
+	font-family: 'Sintony', sans-serif;
+	color: white;
+
+}
+
+p{
+	text-align: center;
+	font-family: 'Sintony', sans-serif;
+	font-size: 20px;
+	font-weight: normal;
+	color: white;
+
+}
